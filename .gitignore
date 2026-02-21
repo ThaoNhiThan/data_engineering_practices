@@ -212,3 +212,6 @@ __marimo__/
 
 # backup files
 **.bk
+
+**/credentials.yml
+.gitignore
